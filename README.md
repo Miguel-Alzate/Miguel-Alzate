@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings! I’m Miguel Alzate, a software developer.<br>🔭 I’m currently a business chat for the company ABAI GROUP.<br>🌱 I’m currently learning Python with focus on FastAPI to make better API's.<br>⚡ 18 - Starting with this :)
+Greetings! I’m Miguel Alzate, a software developer.<br>🔭 I’m currently a business chat for the company ABAI GROUP.<br>🌱 I’m currently learning Python with focus on FastAPI to make better API's.<br>⚡ 18 - Starting with this :).<br>🌎 Colombia
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ Greetings! I’m Miguel Alzate, a software developer.<br>🔭 I’m currently a 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Alzate&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Alzate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Miguel-Alzate&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Miguel-Alzate&limit=5&theme=dark&combine_all_yearly_contributions=true)
