@@ -1,5 +1,5 @@
 # Sobre mi:
-¡Saludos! Soy Miguel Alzate, un desarrollador de software con enfoque en el backend.<br>🔭 Actualmente estoy trabajando en un chat empresarial para la empresa ABAI GROUP.<br>🌱 Aprendiendo Python con enfoque en FastAPI para crear mejores API's.<br>⚡ 18 - Empezando con esto :).<br>🌎 Colombia.
+¡Saludos! Soy Miguel Alzate, un desarrollador de software junior full stack.<br>⚡ 18 - Empezando con esto :).<br>🌎 Colombia.
 
 # 🖥️ Portafolio:
 [![Portafolio](https://img.shields.io/badge/Ver%20Portafolio-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Miguel-Alzate/Portafolio)
