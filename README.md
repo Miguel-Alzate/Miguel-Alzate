@@ -1,4 +1,4 @@
-<Zh2 align="left">Hola 👋! Mi nombre es Miguel Angel y soy un desarrollador de software  junior.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Miguel Angel y soy un desarrollador de software  junior.</h2>
 
 ###
 
